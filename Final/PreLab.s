@@ -2,6 +2,7 @@
 # ECE3221 LAB#3 - SUBROUTINES                       
 # ----------------------------------------------- 
 # DATE: Feb 2025		  NAME:  Will Ross 3734692
+# DATE: Feb 2025		  NAME:  Alex Cameron 3680202
 # ----------------------------------------------- 
 # A Slot Machine
 # - rapidly display four counting digits
